@@ -2,7 +2,7 @@
 
 Clone any chapter from [ICD-11 API](https://icd.who.int/icdapi).
 
-Created for providing required ICD data form [Aronnax](https://github.com/luisfelipesantofimio/aronnax).
+Created for providing required ICD data for [Aronnax](https://github.com/luisfelipesantofimio/aronnax).
 
 ## Usage
 
